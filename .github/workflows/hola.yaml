@@ -5,5 +5,5 @@ jobs:
   prueba:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "prueba8 "
+      - run: echo "prueba50 "
 
